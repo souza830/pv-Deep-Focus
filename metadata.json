@@ -1,0 +1,8 @@
+{
+  "name": "Protocolo Deep Focus",
+  "description": "Uma landing page de alta conversão para o Protocolo Deep Focus, projetada para converter profissionais e estudantes que buscam recuperar sua atenção na era da distração digital.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
