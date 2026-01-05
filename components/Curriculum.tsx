@@ -14,7 +14,7 @@ const Curriculum: React.FC = () => {
   ];
 
   return (
-    <section id="curriculum" className="py-24">
+    <section id="curriculum" className="py-24 scroll-mt-24">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16 max-w-3xl mx-auto">
           <h2 className="text-3xl md:text-5xl font-bold mb-6">O que você vai aprender</h2>

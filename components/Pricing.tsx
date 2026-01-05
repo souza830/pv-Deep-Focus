@@ -3,7 +3,7 @@ import React from 'react';
 
 const Pricing: React.FC = () => {
   return (
-    <section id="pricing" className="py-24 bg-zinc-950">
+    <section id="pricing" className="py-24 bg-zinc-950 scroll-mt-24">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto bg-zinc-900 border border-zinc-800 rounded-[3rem] p-8 md:p-16 relative overflow-hidden text-center shadow-2xl">
           <div className="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-emerald-500 to-blue-500"></div>

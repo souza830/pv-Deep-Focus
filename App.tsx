@@ -30,7 +30,6 @@ const App: React.FC = () => {
             <span className="font-bold text-xl tracking-tight hidden sm:inline-block">Deep Focus</span>
           </div>
           <div className="flex gap-4 items-center">
-            <a href="#curriculum" className="text-zinc-400 hover:text-white transition-colors text-sm font-medium">Conteúdo</a>
             <a href="#pricing" className="bg-emerald-600 hover:bg-emerald-500 text-white px-5 py-2 rounded-full text-sm font-semibold transition-all shadow-lg shadow-emerald-600/20">
               Quero Acessar
             </a>
