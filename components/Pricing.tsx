@@ -43,9 +43,9 @@ const Pricing: React.FC = () => {
             </div>
           </div>
 
-          <button className="w-full max-w-md py-5 bg-emerald-600 hover:bg-emerald-500 text-white font-black text-xl rounded-2xl transition-all shadow-2xl shadow-emerald-600/40 transform hover:scale-[1.02] active:scale-95">
+          <a href="https://pay.kiwify.com.br/lXkCtsv" className="block w-full max-w-md mx-auto py-5 bg-emerald-600 hover:bg-emerald-500 text-white font-black text-xl rounded-2xl transition-all shadow-2xl shadow-emerald-600/40 transform hover:scale-[1.02] active:scale-95">
             ASSUMIR O CONTROLE AGORA
-          </button>
+          </a>
           
           <div className="mt-8 flex items-center justify-center gap-6 opacity-50 grayscale">
             <span className="text-xs font-bold text-zinc-400">PAGAMENTO SEGURO</span>

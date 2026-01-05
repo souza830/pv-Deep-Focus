@@ -27,7 +27,7 @@ const Hero: React.FC = () => {
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-          <a href="#pricing" className="w-full sm:w-auto px-8 py-4 bg-emerald-600 hover:bg-emerald-500 text-white rounded-xl font-bold text-lg transition-all shadow-xl shadow-emerald-600/25 active:scale-95">
+          <a href="https://pay.kiwify.com.br/lXkCtsv" className="w-full sm:w-auto px-8 py-4 bg-emerald-600 hover:bg-emerald-500 text-white rounded-xl font-bold text-lg transition-all shadow-xl shadow-emerald-600/25 active:scale-95">
             Quero Começar Agora
           </a>
           <a href="#curriculum" className="w-full sm:w-auto px-8 py-4 bg-zinc-800/50 hover:bg-zinc-800 text-zinc-300 rounded-xl font-medium transition-all border border-zinc-700">
