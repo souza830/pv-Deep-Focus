@@ -3,7 +3,7 @@ import { GoogleGenAI, Type } from "@google/genai";
 import { FocusArchetype, DiagnosticResult } from '../types';
 
 export const getFocusDiagnostic = async (answers: string): Promise<DiagnosticResult> => {
-  const ai = new GoogleGenAI({ apiKey: process.env.VITE_GEMINI_API_KEY });
+  const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
   
   const response = await ai.models.generateContent({
     model: 'gemini-3-flash-preview',
